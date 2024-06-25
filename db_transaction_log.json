@@ -1,0 +1,36 @@
+[
+    {
+        "table_name": "store",
+        "transactions": [
+            {
+                "id": 2,
+                "type": "DELETE",
+                "num_records": 1250,
+                "timestamp": "2024-06-20 05:12:37"
+            },
+            {
+                "id": 1,
+                "type": "INSERT",
+                "num_records": 7000,
+                "timestamp": "2024-06-19 23:06:19"
+            }
+        ]
+    },
+    {
+        "table_name": "books",
+        "transactions": [
+            {
+                "id": 2,
+                "type": "UPDATE",
+                "num_records": 562,
+                "timestamp": "2024-06-18 00:04:42"
+            },
+            {
+                "id": 1,
+                "type": "INSERT",
+                "num_records": 900,
+                "timestamp": "2024-06-18 00:03:05"
+            }
+        ]
+    }
+]
